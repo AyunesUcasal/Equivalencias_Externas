@@ -1,2 +1,2 @@
 # Equivalencias_Externas
-Postal Equivalencias Externas
+Portal Equivalencias Externas
